@@ -5,6 +5,7 @@ import 'package:cuidapet_mobile/app/core/ui/widgets/cuidapet_default_button.dart
 import 'package:cuidapet_mobile/app/core/ui/widgets/cuidapet_textform_field.dart';
 import 'package:cuidapet_mobile/app/core/ui/widgets/rounded_button_icon.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
 part 'widgets/login_form.dart';
 part 'widgets/login_register_buttons.dart';

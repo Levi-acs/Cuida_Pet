@@ -26,7 +26,9 @@ class LoginRegisterButtons extends StatelessWidget {
           label: 'Google',
         ),
         RoundedButtonIcon(
-          onTap: () {},
+          onTap: () {
+            Modular.to.pushNamed('/auth/register');
+          },
           width: .42.sw,
           color: context.primaryColorDark,
           icon: Icons.mail_rounded,

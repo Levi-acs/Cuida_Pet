@@ -18,6 +18,8 @@ dependencies:
   asuka: ^2.2.1
   dio: ^5.9.2
   flutter_screenutil: ^5.9.3
+
+  firebase_core: ^4.7.0
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
